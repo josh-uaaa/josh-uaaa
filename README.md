@@ -1,6 +1,6 @@
 ---
 
-<div align="center"><h3>Currently, I am...</h3></div>
+<div align="center"><h3>CURRENTLY, I AM...</h3></div>
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-<div align="center"><h3>Tech Stack</h3></div>
+<div align="center"><h3>TECH STACK</h3></div>
 
 ---
 
