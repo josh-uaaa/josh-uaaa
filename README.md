@@ -6,21 +6,18 @@
 
 📈 Learning **Python** for **Data Science** with the desire to dive deeper into **Machine Learning** and **AI**.
 
-💻 Learning to work with back-end frameworks (e.g. **Spring Framework** for **Java**, and **Flask** for **Python**).
+💻 Learning to work with the **Spring Framework** for back-end development.
 
-🖥️ Learning front-end technologies (e.g. **HTML**, **CSS**, **JavaScript**, **React**).
+🖥️ Learning fundamental front-end technologies (e.g. **HTML**, **CSS**, **JavaScript**).
 
-📊 Refreshing technical knowledge and skill on **SQL**.
+📊 Refreshing technical knowledge and skill on databases, namely **PostgreSQL**.
 
 #### In Progress
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
