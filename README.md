@@ -4,7 +4,7 @@
 
 ---
 
-📈 Learning **Python** for **Data Science** with the desire to dive deeper into **Machine Learning** and **AI**.
+📈 Learning **Data Science** fundamentals using **Python** with the desire to dive deeper into **Machine Learning** and **AI**.
 
 💻 Learning to work with the **Spring Framework** for back-end development.
 
