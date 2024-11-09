@@ -8,7 +8,7 @@
 
 💻 Learning to work with **Spring Boot** for backend development.
 
-🖥️ Learning fundamental frontend technologies (e.g. **HTML**, **CSS**, **JavaScript**).
+🖥️ Learning fundamental frontend technologies (e.g. **HTML**, **CSS**, **JavaScript**, **React**).
 
 📊 Refreshing technical knowledge and skill on databases, namely **PostgreSQL**.
 
