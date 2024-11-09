@@ -6,7 +6,7 @@
 
 📈 Learning **Data Science** fundamentals using **Python** with the desire to dive deeper into **Machine Learning** and **AI**.
 
-💻 Learning to work with the **Spring Framework** for backend development.
+💻 Learning to work with the **Spring Boot** for backend development.
 
 🖥️ Learning fundamental frontend technologies (e.g. **HTML**, **CSS**, **JavaScript**).
 
