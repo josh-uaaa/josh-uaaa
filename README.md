@@ -4,13 +4,13 @@
 
 ---
 
-📈 Learning **Data Science** fundamentals using **Python** with the desire to dive deeper into **Machine Learning** and **AI**.
-
-💻 Learning to work with **Spring Boot** for backend development.
+💻 Learning fundamental backend technologies (e.g. **Spring Boot**, **Express.js**).
 
 🖥️ Learning fundamental frontend technologies (e.g. **HTML**, **CSS**, **JavaScript**, **React**).
 
 📊 Refreshing technical knowledge and skill on databases, namely **PostgreSQL**.
+
+📈 Diving into the fundamentals of **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
 
 #### In Progress
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
